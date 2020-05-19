@@ -10,5 +10,5 @@
   host_port: 1234
   server_bootstrap: "provisioning/deploy.yml"
   shell_provision: "provisioning/bootstrap.sh"
-  ansible_version: "2.9.7"
+  ansible_version: "2.9.9"
   ansible_compatibility_mode: "2.0"
